@@ -20,6 +20,7 @@ header {
     top: 0;
 }
 
+
 aside {
     width: 20%;
     right: 0;
@@ -29,10 +30,13 @@ aside {
 
 main {
     width: 80%;
-    top: 87px;
+    top: 77px;
 }
+
+
 
 footer {
     bottom: 0;
     width: 100%;
 }
+
