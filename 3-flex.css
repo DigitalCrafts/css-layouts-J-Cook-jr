@@ -1,0 +1,18 @@
+.flex-container{
+   display:flex;
+   height: 85vh;
+}
+
+main{
+    width: 80%;
+    
+}
+
+
+aside{
+    width:20%;
+}
+
+footer{
+    align-self: flex-end;
+}
